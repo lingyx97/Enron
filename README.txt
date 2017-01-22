@@ -1,3 +1,4 @@
+# Original dataset can be acquired from https://www.cs.cmu.edu/~./enron/
 Goal: Predict whether a person is Person Of Interest(POI) with given dataset.
 Features: ['salary', 'deferral_payments', 
 	'total_payments', 'loan_advances'(NOT USED), 
