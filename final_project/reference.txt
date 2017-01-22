@@ -1,0 +1,20 @@
+https://github.com/udacity/ud120-projects
+Scikit Learn Documents:
+	http://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html
+	http://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter
+	http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
+	http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+	http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
+	http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+	http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+	http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+	http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+	http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
+	http://scikit-learn.org/stable/modules/cross_validation.html
+	http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.ShuffleSplit.html
+	http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Imputer.html
+	http://scikit-learn.org/stable/modules/generated/sklearn.grid_search.GridSearchCV.html
+	http://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html
+	http://scikit-learn.org/stable/modules/generated/sklearn.metrics.fbeta_score.html#sklearn.metrics.fbeta_score
+http://scikit-learn.org/stable/modules/feature_selection.html#univariate-feature-selection
+Numpy documents
